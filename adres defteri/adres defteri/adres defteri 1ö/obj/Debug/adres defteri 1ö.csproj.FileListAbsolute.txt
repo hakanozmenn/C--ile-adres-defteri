@@ -1,0 +1,41 @@
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe.config
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Form1.resources
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe.config
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Form1.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\Yeni klasör\adres defteri 1ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe.config
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.pdb
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Form1.resources
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.frmKisiDuzenle.resources
+C:\Users\LENOVO\Desktop\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.frmKisiEkle.resources
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe.config
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.exe
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\bin\Debug\adres defteri 1ö.pdb
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.AssemblyReference.cache
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Form1.resources
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.frmKisiDuzenle.resources
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.frmKisiEkle.resources
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres_defteri_1ö.Properties.Resources.resources
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.GenerateResource.cache
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.exe
+C:\Users\Monster\Downloads\Adres Defteri 2Ö\adres defteri 2ö\adres defteri 1ö\obj\Debug\adres defteri 1ö.pdb
